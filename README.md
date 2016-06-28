@@ -15,10 +15,10 @@
 - Cumin (in all curry)
 - Chili powder (in all chili)
 
+`*See section below for exceptions`
+
 ##Food that is OK
 - Almonds
 - Soy sauce
 - Cooking oil with soy
 - Minute amounts of garlic powder
-
-_*See OK section for exceptions_
