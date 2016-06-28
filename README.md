@@ -1,9 +1,9 @@
 ##Food Allergies
 - **Peanuts, peas** (and all other legumes such as lentils)
 - **Nuts***
- - _Anything processed with peanuts or nuts_
+ - Anything processed with peanuts or nuts
 - **Potatoes** (french fries, sweet potatoes, most shredded cheese has potato starch)
- - _Anything fried in the same oil as french fries_
+ - Anything fried in the same oil as french fries
 - **Mustard** (in mayonnaise and wasabi)
 - **Beans**
  - **Soy*** (edamame, miso, tofu)
@@ -15,7 +15,7 @@
 - Cumin (in all curry)
 - Chili powder (in all chili)
 
-_**​*​** See section below for exceptions_
+_**​*​**​See section below for exceptions_
 
 ##Food that is OK
 - Almonds
