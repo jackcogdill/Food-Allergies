@@ -15,7 +15,7 @@
 - Cumin (in all curry)
 - Chili powder (in all chili)
 
-> *See section below for exceptions
+> __*__ See section below for exceptions
 
 ##Food that is OK
 - Almonds
