@@ -7,7 +7,7 @@
 - **Mustard** (in mayonnaise and wasabi)
 - **Beans**
  - **Soy*** (edamame, miso, tofu)
-- **Shell fish**
+- **Shellfish**
 - Garlic*
 - Cucumbers (and pickles)
 - Zucchini
