@@ -1,4 +1,5 @@
-##Food Allergies
+## Food Allergies
+
 - **Peanuts, peas** (and all other legumes such as lentils)
 - **Nuts***
  - Anything processed with peanuts or nuts
@@ -17,7 +18,8 @@
 
 _**​*​**​See section below for exceptions_
 
-##Food that is OK
+## Food that is OK
+
 - Almonds
 - Soy sauce
 - Cooking oil with soy
