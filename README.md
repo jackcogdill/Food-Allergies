@@ -15,6 +15,7 @@
 - Squash
 - Cumin (in all curry)
 - Chili powder (in all chili)
+- Brown rice*
 
 _**​*​**​See section below for exceptions_
 
@@ -24,3 +25,4 @@ _**​*​**​See section below for exceptions_
 - Soy sauce
 - Cooking oil with soy
 - Minute amounts of garlic powder
+- White rice
