@@ -5,7 +5,7 @@
   - Anything processed with peanuts or nuts
 - **Potatoes** (french fries, sweet potatoes, most shredded cheese has potato starch)
   - Anything fried in the same oil as french fries
-- **Mustard** (in mayonnaise and wasabi)
+- **Mustard** (in most wasabi)
 - **Beans**
   - **Soy*** (edamame, miso, tofu)
 - **Shellfish**
