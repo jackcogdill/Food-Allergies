@@ -2,12 +2,12 @@
 
 - **Peanuts, peas** (and all other legumes such as lentils)
 - **Nuts***
- - Anything processed with peanuts or nuts
+  - Anything processed with peanuts or nuts
 - **Potatoes** (french fries, sweet potatoes, most shredded cheese has potato starch)
- - Anything fried in the same oil as french fries
+  - Anything fried in the same oil as french fries
 - **Mustard** (in mayonnaise and wasabi)
 - **Beans**
- - **Soy*** (edamame, miso, tofu)
+  - **Soy*** (edamame, miso, tofu)
 - **Shellfish**
 - Garlic*
 - Cucumbers (and pickles)
@@ -23,6 +23,5 @@ _**​*​**​See section below for exceptions_
 
 - Almonds
 - Soy sauce
-- Cooking oil with soy
-- Minute amounts of garlic powder
+- Soybean oil, soy lecithin
 - White rice
