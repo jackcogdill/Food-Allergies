@@ -8,8 +8,8 @@
 - **Mustard** (in most wasabi)
 - **Beans**
   - **Soy*** (edamame, miso, tofu)
-- **Shellfish**
-- Garlic*
+- **Shellfish** (shrimp, crab, lobster, clams, oysters)
+- Garlic
 - Cucumbers (and pickles)
 - Zucchini
 - Squash
