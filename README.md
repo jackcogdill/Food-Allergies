@@ -9,14 +9,13 @@
 - **Beans**
   - **Soy*** (edamame, miso, tofu)
 - **Shellfish** (shrimp, crab, lobster, clams, oysters)
-- Garlic
 - Cucumbers (and pickles)
 - Zucchini
 - Squash
 - Cumin (in all curry)
 - Chili powder (in all chili)
-- Brown rice*
 
+_**Bold items** are more severe_  
 _**​*​**​See section below for exceptions_
 
 ## Food that is OK
@@ -24,4 +23,4 @@ _**​*​**​See section below for exceptions_
 - Almonds
 - Soy sauce
 - Soybean oil, soy lecithin
-- White rice
+
