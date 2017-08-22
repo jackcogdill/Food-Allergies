@@ -3,7 +3,7 @@
 - **Peanuts, peas** (and all other legumes such as lentils)
 - **Nuts***
   - Anything processed with peanuts or nuts
-- **Potatoes** (french fries, sweet potatoes, most shredded cheese has potato starch)
+- **Potatoes** (french fries, sweet potatoes)
   - Anything fried in the same oil as french fries
 - **Mustard** (in most wasabi)
 - **Beans**
