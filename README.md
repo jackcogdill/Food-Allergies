@@ -12,7 +12,7 @@
 - Cucumbers (and pickles)
 - Zucchini
 - Squash
-- Cumin (in all curry)
+- Cumin
 
 _**Bold items** are more severe_  
 _**​*​**​See section below for exceptions_
