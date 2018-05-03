@@ -11,6 +11,8 @@
 - Squash
 - Cumin
 - Brown Rice
+- Raw tomatoes
+- Raw bell peppers
 
 _**Bold items** are more severe_  
 _**​*​**​See section below for exceptions_
