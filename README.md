@@ -9,7 +9,6 @@
 - Cucumbers (and pickles)
 - Zucchini
 - Squash
-- Cumin
 - Brown Rice
 - Raw tomatoes
 - Raw bell peppers
