@@ -1,3 +1,5 @@
+> _**Bold items** are more severe_
+
 ## Food Allergies
 
 - **Peanuts, peas** (all other legumes such as lentils; anything processed with peanuts)
@@ -12,8 +14,6 @@
 - Brown Rice
 - Raw tomatoes
 - Raw bell peppers
-
-_**Bold items** are more severe_
 
 ## Food that is OK
 
