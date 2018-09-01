@@ -11,7 +11,6 @@
 - Cucumbers (and pickles)
 - Zucchini
 - Squash
-- Brown Rice
 - Raw tomatoes
 - Raw bell peppers
 
