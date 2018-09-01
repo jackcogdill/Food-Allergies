@@ -1,4 +1,4 @@
-> _**Bold items** are more severe_
+> _Note: **Bold items** are more severe_
 
 ## Food Allergies
 
