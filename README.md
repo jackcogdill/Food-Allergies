@@ -8,7 +8,6 @@
 - **Mustard** (in wasabi)
 - **Beans**<sup>2</sup>
 - **Shellfish**<sup>3</sup> (crab, lobster, clams, oysters)
-- Cucumbers (and pickles)
 - Zucchini
 - Squash
 - Raw tomatoes
