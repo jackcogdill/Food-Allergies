@@ -11,7 +11,7 @@
 - Zucchini
 - Squash
 - Raw tomatoes
-- Raw bell peppers
+- Bell peppers
 
 ## Food that is OK
 

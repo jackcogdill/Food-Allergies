@@ -1,2 +1,2 @@
-Allergies: Peanuts, peas (all other legumes such as lentils; anything processed with peanuts), nuts, potatoes (french fries, sweet potatoes), mustard (in wasabi), beans, shellfish (crab, lobster, clams, oysters), zucchini, squash, raw tomatoes, raw bell peppers.
+Allergies: Peanuts, peas (all other legumes such as lentils; anything processed with peanuts), nuts, potatoes (french fries, sweet potatoes), mustard (in wasabi), beans, shellfish (crab, lobster, clams, oysters), zucchini, squash, raw tomatoes, bell peppers.
 Food that is OK: Almonds, soy, soy beans, miso, tofu, shrimp.
