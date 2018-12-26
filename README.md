@@ -1,20 +1,18 @@
-> _Note: **Bold items** are more severe_
-
 ## Food Allergies
 
-- **Peanuts, peas** (all other legumes such as lentils; anything processed with peanuts)
-- **Nuts**<sup>1</sup>
-- **Potatoes** (french fries, sweet potatoes)
-- **Mustard** (in wasabi)
-- **Beans**<sup>2</sup>
-- **Shellfish**<sup>3</sup> (crab, lobster, clams, oysters)
+- Peanuts, peas (all other legumes: lentils, green beans, etc)
+- Tree Nuts<sup>1</sup>
+- Potatoes (and sweet potatoes)
+- Mustard (in wasabi)
+- Raw tomatoes
+- Beans<sup>2</sup>
+- Shellfish<sup>3</sup> (crab, lobster, clams, oysters)
+- Bell peppers
 - Zucchini
 - Squash
-- Raw tomatoes
-- Bell peppers
 
 ## Food that is OK
 
 1. Almonds
-2. Soy, soy beans, miso, tofu
+2. Soy
 3. Shrimp
