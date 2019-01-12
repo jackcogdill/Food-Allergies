@@ -7,7 +7,7 @@
 - Raw tomatoes
 - Beans<sup>2</sup>
 - Shellfish<sup>3</sup> (crab, lobster, clams, oysters)
-- Bell peppers
+- Bell peppers, paprika
 - Zucchini
 - Squash
 
