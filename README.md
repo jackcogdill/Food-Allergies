@@ -2,11 +2,12 @@
 
 - Peanuts, peas (all other legumes: lentils, green beans, etc)
 - Tree Nuts<sup>1</sup>
-- Potatoes (and sweet potatoes)
-- Mustard (in wasabi)
+- Potatoes, sweet potatoes<sup>2</sup>
+- Mustard
+- Wasabi
 - Raw tomatoes
-- Beans<sup>2</sup>
-- Shellfish<sup>3</sup> (crab, lobster, clams, oysters)
+- Beans<sup>3</sup>
+- Shellfish<sup>4</sup> (crab, lobster, clams, oysters)
 - Bell peppers, paprika
 - Zucchini
 - Squash
@@ -14,5 +15,6 @@
 ## Food that is OK
 
 1. Almonds
-2. Soy
-3. Shrimp
+2. Japchae
+3. Soy
+4. Shrimp
