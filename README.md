@@ -14,7 +14,7 @@
 
 ## Food that is OK
 
-1. Almonds
+1. Almonds, coconut
 2. Japchae
 3. Soy
 4. Shrimp
