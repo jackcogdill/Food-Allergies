@@ -1,20 +1,24 @@
 ## Food Allergies
 
-- Peanuts, peas (all other legumes: lentils, green beans, etc)
-- Tree Nuts<sup>1</sup>
-- Potatoes, sweet potatoes<sup>2</sup>
+- Peanuts (and other legumes)<sup>1</sup>
+  - Lentils
+  - Beans, chickpeas, green beans
+- Cashews and pistachios
+- Potatoes (and other nightshades)<sup>2</sup>
+  - Sweet potatoes
+  - Bell peppers<sup>3</sup>
+  - Eggplant
+  - Shishito peppers
+  - Raw tomatoes
+  - Tomatillos
+  - Burdock
 - Mustard
-- Wasabi
-- Raw tomatoes
-- Beans<sup>3</sup>
-- Shellfish<sup>4</sup> (crab, lobster, clams, oysters)
-- Bell peppers, paprika
-- Zucchini
-- Squash
+  - Wasabi
+  - Many mayonnaise brands, including Kewpie
+  - Most salad dressings
 
-## Food that is OK
+## Exceptions (food that is OK)
 
-1. Almonds, coconut
-2. Japchae
-3. Soy
-4. Shrimp
+1. Peas, soy
+2. Potato starch, Japchae
+2. Paprika
