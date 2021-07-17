@@ -4,6 +4,8 @@
   - Lentils
   - Beans, chickpeas, green beans
 - Cashews and pistachios
+  - Sumac
+  - Mangoes
 - Potatoes (and other nightshades)<sup>2</sup>
   - Sweet potatoes
   - Bell peppers<sup>3</sup>
