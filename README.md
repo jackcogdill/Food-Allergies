@@ -18,6 +18,7 @@
   - Wasabi
   - Many mayonnaise brands, including Kewpie
   - Most salad dressings
+- Olives<sup>5</sup>
 
 ## Exceptions (food that is OK)
 
@@ -25,3 +26,4 @@
 2. Almonds, walnuts, pecans, hazelnut
 3. Potato starch, Japchae
 4. Paprika
+5. Olive oil
