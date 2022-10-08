@@ -3,7 +3,7 @@
 - Peanuts + other legumes<sup>1</sup>
   - Lentils
   - Beans, chickpeas, green beans
-- Tree nuts<sup>3</sup>
+- Tree nuts<sup>2</sup>
   - Cashews and pistachios
   - Sumac
 - Potatoes + other nightshades<sup>3</sup>
