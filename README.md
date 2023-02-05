@@ -2,7 +2,7 @@
 
 - Peanuts + other legumes<sup>1</sup>
   - Lentils
-  - Beans, chickpeas, green beans
+  - Chickpeas, green beans
 - Tree nuts<sup>2</sup>
   - Cashews and pistachios
   - Sumac
