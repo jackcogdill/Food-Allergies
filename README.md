@@ -23,7 +23,7 @@
 ## Exceptions (food that is OK)
 
 1. Peas, soy, bean sprouts, azuki beans, pinto beans
-2. Almonds, walnuts, pecans, hazelnut
+2. Almonds, walnuts, pecans
 3. Potato starch, Japchae
 4. Paprika
 5. Olive oil
